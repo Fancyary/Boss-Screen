@@ -1,9 +1,9 @@
 # Boss-Screen
-A full-screen "Boss Screen" animation component built with ClojureScript + Replicant. Features golden gradient background, falling coins, avatar pop-in animation, and rotating user messages.
+A full-screen "Boss Screen" animation component built with ClojureScript + Replicant. It features golden gradient background, falling coins, avatar pop-in animation, and cycling through user messages.
 It's great for full-screen announcements, donation displays, event popups, etc.
 
 ## How to use
-The project requires replicant.
+The project requires Replicant.Make sure it's available in your cljs environment.
 
 Make sure your HTML has a mount point:
 ```html
